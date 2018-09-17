@@ -40,6 +40,7 @@ public class First {
 				System.out.print(a[i][j] + " ");
 
 			}
+			
 
 			System.out.println();
 
